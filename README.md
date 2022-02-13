@@ -1,2 +1,3 @@
 # Ellehacks2022ButterflyExecutioners
-Team Butterfly Executioners - Ellehacks 2022
+The Bell Challenge from Team Butterfly Executioners - Ellehacks 2022
+Note: Prototype created using Microsoft Power Apps 
